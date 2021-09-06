@@ -5,5 +5,8 @@ A college library management is a project that manages and stores books informat
 #  1.Requirement
 -- The Requirements contains all the require details of Library Management System
 
-#  2.
+#  2.Architecture
+--It contains Behaviour diagram and structure diagram of System.
+
+# 3.
 
