@@ -1,1 +1,1 @@
-![structure dia](https://user-images.githubusercontent.com/81178250/132130323-299c46da-b443-43d6-975f-ffa10c523ed1.png)
+![structure dia](https://user-images.githubusercontent.com/81178250/132223383-f01f8038-35b3-47d2-a629-b04b671cf391.png)
