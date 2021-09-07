@@ -13,7 +13,7 @@ A college library management is a project that manages and stores books informat
 |5.`ImageOfOutput`|Screenshot of Output|
 
 # Detail requirements
-## High Level Requirements:
+# High Level Requirements
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
@@ -21,7 +21,7 @@ A college library management is a project that manages and stores books informat
 |HLR-2| Librarian can able to check count of Available book |Implemented|
 |HLR-3| Member can able to see new book added |Impemented|
 
-## Low level Requirements:
+# Low level Requirements
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
 |LLR-1|Member can see Highest Price of Book|Implemented|
@@ -30,11 +30,11 @@ A college library management is a project that manages and stores books informat
 |------|------|-----|
 |[![CI](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml/badge.svg)](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml)|![Code Quality](https://www.code-inspector.com/project/27731/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27731/status/svg)|
 
-## Challenges Faced and How Was It Overcome
+# Challenges Faced and How Was It Overcome
 
-1.**Generation of makefile:** Overcome this Problem by watching the videos from Futureskill.
+**Generation of makefile:** Overcome this Problem by watching the videos from Futureskill.
 
-## Learning Resources
+# Learning Resources
 
 1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1) 
 
