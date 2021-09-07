@@ -25,4 +25,6 @@ A college library management is a project that manages and stores books informat
 |:---:|:---:|:---:|
 |LLR-1|Member can see Highest Price of Book|Implemented|
 
+https://www.code-inspector.com/project/27731/score/svg
+
 
