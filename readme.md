@@ -60,6 +60,12 @@ This project can perform various opration at the same and make user's task smoot
 
 **Generation of makefile:** Overcome this Problem by watching the videos from Futureskill.
 
+## Contributors List and Summary
+
+|PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|:---:|:---:|:---:|:---:|:---:|
+|`99006280` | Soniya Patil  | Complete project   | 3   | 3     |
+
 # Learning Resources
 
 1. [gcc makefile]( https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1) 
