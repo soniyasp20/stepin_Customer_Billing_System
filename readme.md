@@ -26,9 +26,11 @@ A college library management is a project that manages and stores books informat
 |:---:|:---:|:---:|
 |LLR-1|Member can see Highest Price of Book|Implemented|
 
-|[CI]|[code Quality score]|[code Grade]|
-|------|------|-----|
-|[![CI](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml/badge.svg)](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml)|![Code Quality](https://www.code-inspector.com/project/27731/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27731/status/svg)|
+# StepIn Mini Project
+
+|[CI]|[codacy Badge]|[code Quality score]|[code Grade]|
+|------|------|-----|------|
+|[![CI](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml/badge.svg)](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0bf438bcdec040fd991014dc5b9715f6)](https://www.codacy.com/gh/soniyasp20/stepin_Library_Management/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soniyasp20/stepin_Library_Management&amp;utm_campaign=Badge_Grade)|![Code Quality](https://www.code-inspector.com/project/27731/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27731/status/svg)|
 
 # Challenges Faced and How Was It Overcome
 
