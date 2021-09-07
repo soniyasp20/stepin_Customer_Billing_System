@@ -26,9 +26,9 @@ A college library management is a project that manages and stores books informat
 |:---:|:---:|:---:|
 |LLR-1|Member can see Highest Price of Book|Implemented|
 
-|[code Quality score]|[code Grade]|
-|------|-----|
-|![Code Quality](https://www.code-inspector.com/project/27731/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27731/status/svg)|
+|[CI]|[code Quality score]|[code Grade]|
+|------|------|-----|
+|[![CI](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml/badge.svg)](https://github.com/soniyasp20/stepin_Library_Management/actions/workflows/main.yml)|![Code Quality](https://www.code-inspector.com/project/27731/score/svg) | ![Code Grade](https://www.code-inspector.com/project/27731/status/svg)|
 
 ## Challenges Faced and How Was It Overcome
 
