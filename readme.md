@@ -12,6 +12,30 @@ A college library management is a project that manages and stores books informat
 |4.`TestPlanAndOutput`|Output of Code|
 |5.`ImageOfOutput`|Screenshot of Output|
 
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+1. Librarian
+2.Library Member
+
+## What:
+
+A Librarian can add book and check the the count also Member can see Newly added Book.
+
+
+## When:
+In School During during Library Hours.
+
+## Where:
+
+This project can be used by students as well as Big Libraries.
+
+## How:
+
+This project can perform various opration at the same and make user's task smooth and effortless.
+
 # Detail requirements
 # High Level Requirements
 
