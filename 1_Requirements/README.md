@@ -3,7 +3,7 @@
 -Librarian can see the total count of books.
 -Member can see newly added book
 
-# Feature OF LIBRARY MANAGEMENT SYSTEM SOFTWARE
+# Feature OF Library Management System
 
 --User friendly system:
 
