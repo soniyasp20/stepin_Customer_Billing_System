@@ -18,7 +18,3 @@ The system allows the librarian to maintain a wide collection of books. The libr
 --Time and effort saver:
 
 The automated library system software eliminates the need for manual entries. This saves the effort and time consumed in data entry. Automation makes the database error free and accurate.
-
-
-![WhatsApp Image 2021-09-07 at 11 12 36 PM](https://user-images.githubusercontent.com/81178250/132388370-f03f74fc-b8af-4001-b800-39fe72f5c0a3.jpeg)
-
