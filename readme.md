@@ -36,8 +36,8 @@ A college library management is a project that manages and stores books informat
 
 ## Learning Resources
 
-1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
-2. 
-3. [pointers in c](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)
-4. 
-5. [Number system in digital elecronics](https://learnabout-electronics.org/Digital/dig11.php)
+1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1) 
+
+2. [pointers in c](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/) 
+
+3. [Number system in digital elecronics](https://learnabout-electronics.org/Digital/dig11.php)
