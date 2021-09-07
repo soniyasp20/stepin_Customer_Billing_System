@@ -11,4 +11,18 @@ A college library management is a project that manages and stores books informat
 |4.`TestPlanAndOutput`|Output of Code|
 |5.`ImageOfOutput`|Screenshot of Output|
 
+# Detail requirements
+## High Level Requirements:
+
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|HLR-1| Librarian can add new book |Implemented|
+|HLR-2| Librarian can able to check count of Available book |Implemented|
+|HLR-3| Member can able to see new book added |Impemented|
+
+##  Low level Requirements:
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|LLR-1|Member can see Highest Price of Book|Implemented|
+
 
