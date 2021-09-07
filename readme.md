@@ -27,14 +27,9 @@ A college library management is a project that manages and stores books informat
 
 ![code Quality score](https://www.code-inspector.com/project/27731/score/svg)
 
+## Challenges Faced and How Was It Overcome
 
-
-
-
-
-
-
-
+1. **Generation of makefile:** Overcome this Problem by watching the videos from Futureskill.
 
 
 
