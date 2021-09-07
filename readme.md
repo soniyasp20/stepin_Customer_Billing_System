@@ -20,7 +20,7 @@ A college library management is a project that manages and stores books informat
 |HLR-2| Librarian can able to check count of Available book |Implemented|
 |HLR-3| Member can able to see new book added |Impemented|
 
-##  Low level Requirements:
+## Low level Requirements:
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
 |LLR-1|Member can see Highest Price of Book|Implemented|
@@ -31,10 +31,7 @@ A college library management is a project that manages and stores books informat
 
 ## Challenges Faced and How Was It Overcome
 
-1. **Generation of makefile:** Overcome this Problem by watching the videos from Futureskill.
-
-
-
+1.**Generation of makefile:** Overcome this Problem by watching the videos from Futureskill.
 
 ## Learning Resources
 1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
