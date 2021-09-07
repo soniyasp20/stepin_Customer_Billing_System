@@ -1,7 +1,9 @@
 # Requirements
 -Librarian can add new Book with publisher name,Book name and also price.
 -Librarian can see the total count of books.
--Member can see newly added book
+-Member can see newly added book.
+-Librarian: Mainly responsible for adding and modifying books, book items, and users. The Librarian can also issue, reserve, and return book items.
+-Member: All members can search the catalog, as well as check-out, reserve, renew, and return a book.
 
 # Feature OF Library Management System
 
