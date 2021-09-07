@@ -1,0 +1,5 @@
+PS C:\Users\Admin\Desktop\L&T Documents\Management> make
+gcc main.c library.c -o all.exe
+PS C:\Users\Admin\Desktop\L&T Documents\Management> make run
+gcc main.c library.c -o all.exe
+.\all.exe
